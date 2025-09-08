@@ -8,8 +8,8 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.filters import Command
 
 # ==== CONFIGURATION ====
-BOT_TOKEN = "8236256472:AAG8PjNbz7s9dUaTJ2lF0u2D7gRNEkNfDwU"
-CHANNEL_ID = "-1002081961222"
+BOT_TOKEN = "8236256472:AAG9waO-TLg2llV4axWD1bhbrPp12FGTMsE"
+CHANNEL_ID = "-1002187871832"
 
 # ADMIN CONFIG
 ADMIN_IDS = [5976922690, 6808328473]  # Replace with your Telegram user IDs
